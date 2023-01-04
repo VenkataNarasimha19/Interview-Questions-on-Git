@@ -1,0 +1,57 @@
+Interview Questions:
+What is Git
+What is Version Control System
+What are the Advantages of using a VCS?
+What is the difference between Git & SVN?
+What is the difference between Git & GitHub?
+What language is used in Git?
+Mention various Git Repository hosting functions
+What is a repository in Git?
+What is a bare repository in Git?
+What is a commit message?
+Explain some basic Git commands?
+    git init:
+    git status:
+    git clone <url>: Creates a working copy of a local repository 
+    git add: Add 1 or more files to this staging area of git.
+    git commit: commits any files you added with git add also commit any files you changed 
+    git push origin master: sends changes to the master branch remote repository 
+How do you fix a broken commit: We can fix the broken commit using git commit - - amend.
+What is a conflict in git?
+How do you resolve a conflict in Git?
+How do revert a commit that has already been pushed and made public?
+What is SubGit?
+What is the difference between Git pull & Git fetch?
+What is staging area or index?
+What is the use of git instaweb?
+What is git is-tree? Git is-tree represents a tree object including the mode and the name of each item and the SHA-1 value of the tree
+What is git stash?
+What is the function of git stash apply?
+What work is restored when the deleted branch is recovered
+Explain the difference between git status and git diff?
+Mention the difference between git clone and git remote?
+What is git stash drop?
+How to find a list of files that changed during a commit?
+What is the function of git config?
+What does commit object contain?
+Describe the branching strategies that you have used?  -- Feature, Task, Release
+Explain the advantages of working workflow
+How to check whether a branch has already been merged into the master?
+Why is it desirable to create an additional commit rather than amending an existing commit?
+What does hook comprise of in git?
+How do you return a commit that has just been pushed and made open?
+ How to remove a file from git without removing it from your file system?
+Could you explain git workflow?
+Explain the difference between head, working tree and index
+Explain the difference between fork, branch, and clone
+What are the different ways by which you can refer to a commit?
+What is the difference between rebasing and merge?
+Mention the difference between revert and reset?
+How to squash last N commits into a single commit?
+What is git bisect? How do you use it to determine the source of a bug?
+How do you integrate git with Jenkins
+How do you configure a repository to run code sanity checking tools right before making commits?
+What is git cherry-pick?
+What is git reflog? – git reflog
+How to recover a deleted branch using git reflog?
+Mention some of the git reflog sub commands? 
